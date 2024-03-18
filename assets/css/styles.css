@@ -1,0 +1,33 @@
+/* Estilos de la foto */
+    
+.foto{
+    width: 300px;
+    border-radius: 1000px;
+    float: right;
+
+}
+
+.principal{
+    display: flex;
+    padding-bottom: 30px;
+}
+
+/* margenes de la foto */
+/* arriba y abajo 20px y en izq derecha 100px */
+body{
+    padding: 20px 100px;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.columna{
+    width: 50%;
+}
+
+.profesional{
+    display: flex;
+}
+
+.col2{    
+    padding-left: 100px;
+    width: 130%;
+}
